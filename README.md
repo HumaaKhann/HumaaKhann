@@ -1,21 +1,8 @@
 ## Hi there 👋
 
-Hey, I'm Huma , a computer science student who likes building things, understanding how they work, and turning small ideas into actual projects.
-
+Hey, I'm Huma, a computer science student who likes building things, understanding how they work, and turning small ideas into actual projects.
 Right now, I'm exploring the intersection of Data Analytics, Python, AI automation, and Web dev — basically, I like both the logic behind a product and the way people experience it.
-
 I'm currently building my skills through projects in Python, SQL, Excel, Power BI, and web development, while learning how to turn data into something people can actually understand and use.
-
-🛠️ What I'm working with
-
-Currently learning & building with:
-🐍 Python
-🗄️ SQL
-📊 Excel & Power BI
-🌐 HTML & CSS
-☕ Java
-🧠 Data Analytics & Statistics
-🤖 AI & Automation
 
 I learn best by building first, breaking things, figuring out why they broke, and making them better.
 
@@ -35,12 +22,5 @@ Learning Git & GitHub properly
 Experimenting with AI and automation
 Getting better at communicating technical ideas
 Slowly figuring out what I can build with all of it
-🎨 Outside of code
-
-You'll probably find me:
-
-🎨 experimenting with design
-💡 coming up with random project ideas
-📚 learning something I'm currently obsessed with
 
 Fun fact: Most of my projects start with “okay, but what if I added this…” and then somehow become much bigger than I planned.
