@@ -9,16 +9,17 @@ I learn best by building first, breaking things, figuring out why they broke, an
 My long-term goal is to become someone who can:
 
 Get data → clean it → analyze it → understand the people behind it → explain what it means → understand the business impact → automate the process → improve the product.
+
 Basically, I don't just want to write code.
 I want to understand why I'm building it and who I'm building it for.
 
- Currently
-Building projects instead of collecting random certificates
-Strengthening my Python and SQL fundamentals
-Exploring Data Analytics
-Learning Git & GitHub properly
-Experimenting with AI and automation
-Getting better at communicating technical ideas
-Slowly figuring out what I can build with all of it
+Currently
+building projects instead of collecting random certificates,
+strengthening my Python and SQL fundamentals
+,exploring Data Analytics
+,learning Git & GitHub properly
+,experimenting with AI and automation
+,getting better at communicating technical ideas and
+slowly figuring out what I can build with all of it
 
 Fun fact: Most of my projects start with “okay, but what if I added this…” and then somehow become much bigger than I planned.
