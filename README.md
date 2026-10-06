@@ -6,8 +6,6 @@ I'm currently building my skills through projects in Python, SQL, Excel, Power B
 
 I learn best by building first, breaking things, figuring out why they broke, and making them better.
 
- Where I'm heading
-
 My long-term goal is to become someone who can:
 
 Get data → clean it → analyze it → understand the people behind it → explain what it means → understand the business impact → automate the process → improve the product.
